@@ -240,7 +240,6 @@
     <Content Include="Scripts\_references.js" />
     <Content Include="Vote.aspx" />
     <Content Include="favicon.ico" />
-    <Content Include="Global.asax" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>
@@ -334,9 +333,6 @@
     </Compile>
     <Compile Include="Vote.aspx.designer.cs">
       <DependentUpon>Vote.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Global.asax.cs">
-      <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Site.Master.cs">
